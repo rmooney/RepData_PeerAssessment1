@@ -1,4 +1,4 @@
-Peer Assessment 1
+# Reproducible Research: Peer Assessment 1
 ========================================================
 The data for this assignment is in the physical file activity.csv.
 This assumes the file is present in the working directory.
